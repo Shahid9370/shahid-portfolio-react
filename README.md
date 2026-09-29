@@ -1,2 +1,1 @@
-# shahid-portfolio-react
-My QA Engineer Portfolio
+# My QA Engineer Portfolio
